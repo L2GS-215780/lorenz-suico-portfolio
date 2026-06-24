@@ -1,2 +1,2 @@
-# lorenz-suico-portfolio
+# Lorenz Gil Suico Portfolio
 Personal Portfolio — Lorenz Gil Suico
